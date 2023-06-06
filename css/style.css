@@ -38,6 +38,10 @@ GENERAL
     font-size: 12px;
 }
 
+.fs_md{
+    font-size: 15px;
+}
+
 .fa-bell{
     color: orange;
 }
