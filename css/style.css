@@ -90,3 +90,19 @@ GENERAL
     padding: 10px;
     border-radius: 5px;
 }
+
+.classes_button{
+    border: 1px solid grey;
+    color:grey;
+    border-radius: 5px;
+}
+
+.avatar{
+    width: 30px;
+    height: 30px;
+}
+
+.stats_img{
+    width: 400px;
+    height: 400px;
+}
